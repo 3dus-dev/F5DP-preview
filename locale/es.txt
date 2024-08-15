@@ -1,0 +1,25 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_5B950708_574B_2C23_41C2_B9CE2E14FC97.label = Palm Estates F5 DP 01 SEJOUR 4K
+panorama_5DB81EEA_574B_3DE7_41D2_4533DFB129C1.label = Palm Estates F5 DP 02 SAS 02 4K
+panorama_5DBAA4E6_574B_2DEF_41B5_6DDE37E52B0E.label = Palm Estates F5 DP 03 SAS 01
+panorama_5DBAEB17_574B_242E_41D0_B4F98399F0DF.label = Palm Estates F5 DP 04 KITCHEN 4K
+panorama_5DBBA134_574B_6463_41AE_E4D7132C1152.label = Palm Estates F5 DP 05 Chambre 01
+panorama_5DBBE83B_574B_6465_41C5_22AE708B7EE2.label = Palm Estates F5 DP 06 Sas 360 4K
+panorama_5DBB602B_574B_6465_41C7_8E13CF90D2FA.label = Palm Estates F5 DP 07 Sas 360 4K
+panorama_5DBBB872_574B_64E7_41CD_C21A72A86DDE.label = Palm Estates F5 DP 08 Chambre 02 360 4K
+panorama_5DBB0EF4_574B_1DE3_41B1_7A1E94F5BAEC.label = Palm Estates F5 DP 09 Chambre 03 360 4K
+panorama_5DBB5874_574B_24E2_41D4_3A691B8A6B6D.label = Palm Estates F5 DP 10 Bathroom 360 4K
+panorama_5DBB30D9_574B_2425_41CF_EF3EF9E3C1C8.label = Palm Estates F5 DP 11 Bureau 360 4K
+panorama_5DBB7985_574B_242D_41D3_46A75E681C4A.label = Palm Estates F5 DP 12 Chambre Parents 360 4K
+panorama_5DBCA2D5_574C_E42D_41C7_4896FC4D5EE7.label = Palm Estates F5 DP 13 Dressing 360 4K
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 9
